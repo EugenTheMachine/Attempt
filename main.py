@@ -4,6 +4,10 @@ from functions import *
 
 PrintHello()
 SayHi()
+PrintHello()
+SayHi()
+PrintHello()
+SayHi()
 
 
 # printing out key spaces by the rule that:
