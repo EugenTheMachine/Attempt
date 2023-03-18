@@ -1,2 +1,2 @@
-def fff():
-    return "fff"
+def asd():
+    return "asd"
