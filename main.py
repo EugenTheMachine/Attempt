@@ -1,5 +1,9 @@
 from time import process_time_ns
 from random import randint
+from functions import *
+
+PrintHello()
+SayHi()
 
 
 # printing out key spaces by the rule that:
